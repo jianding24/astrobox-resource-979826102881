@@ -1,0 +1,121 @@
+{
+  "item": {
+    "id": "979826102881",
+    "restype": "watchface",
+    "name": "拴住今天",
+    "description": "把今天拴在一根细绳上，也给自己留一点好玩的时间。\n\n点一下气球，看它噗地爆开；轻触绳子放飞对应气球，轻触日期卡牌放飞两只，气球都会自动补回。\n\n内置歪猫、垂耳狗、小幽灵和软吐司四个角色，六组气球配色、四种底色。点击电量进入外观设置，可选择底色、配色和起始角色，开关自动换型与轻轻摇摆。开启自动换型后，每次主气球补回时轮换角色，并非每天自动切换。\n\n显示时间、日期与电量。不支持 Redmi Watch 5。",
+    "preview": [
+      "media/preview-01-themes.jpg",
+      "media/preview-02-layouts.jpg",
+      "media/preview-03-guide.jpg"
+    ],
+    "icon": "media/icon.png",
+    "cover": "media/cover.jpg",
+    "author": [
+      {
+        "name": "A_WU",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "icon": "play-circle",
+      "title": "表盘效果演示（小红书）",
+      "url": "https://xhslink.cn/o/2hQ0fCLVdlb"
+    }
+  ],
+  "downloads": {
+    "xmb9": {
+      "version": "1.0.0",
+      "versionCode": 65536,
+      "file_name": "downloads/TetherToday-band9-1.0.0.face",
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "首个正式版本：戳爆与轻触放飞、四种角色、六组配色、四种底色及外观设置。"
+        }
+      ]
+    },
+    "xmb10": {
+      "version": "1.0.0",
+      "versionCode": 65536,
+      "file_name": "downloads/TetherToday-band10-1.0.0.face",
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "首个正式版本：戳爆与轻触放飞、四种角色、六组配色、四种底色及外观设置。"
+        }
+      ]
+    },
+    "xmb10nfc": {
+      "version": "1.0.0",
+      "versionCode": 65536,
+      "file_name": "downloads/TetherToday-band10-1.0.0.face",
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "首个正式版本：戳爆与轻触放飞、四种角色、六组配色、四种底色及外观设置。"
+        }
+      ]
+    },
+    "xmb11": {
+      "version": "1.0.0",
+      "versionCode": 65536,
+      "file_name": "downloads/TetherToday-band10-1.0.0.face",
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "首个正式版本：戳爆与轻触放飞、四种角色、六组配色、四种底色及外观设置。"
+        }
+      ]
+    },
+    "xmb11nfc": {
+      "version": "1.0.0",
+      "versionCode": 65536,
+      "file_name": "downloads/TetherToday-band10-1.0.0.face",
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "首个正式版本：戳爆与轻触放飞、四种角色、六组配色、四种底色及外观设置。"
+        }
+      ]
+    },
+    "xmb9p": {
+      "version": "1.0.0",
+      "versionCode": 65536,
+      "file_name": "downloads/TetherToday-pro-1.0.0.face",
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "首个正式版本：戳爆与轻触放飞、四种角色、六组配色、四种底色及外观设置。"
+        }
+      ]
+    },
+    "xmb10p": {
+      "version": "1.0.0",
+      "versionCode": 65536,
+      "file_name": "downloads/TetherToday-pro-1.0.0.face",
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "首个正式版本：戳爆与轻触放飞、四种角色、六组配色、四种底色及外观设置。"
+        }
+      ]
+    },
+    "xmrw6": {
+      "version": "1.0.0",
+      "versionCode": 65536,
+      "file_name": "downloads/TetherToday-rw-1.0.0.face",
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "首个正式版本：戳爆与轻触放飞、四种角色、六组配色、四种底色及外观设置。"
+        }
+      ]
+    }
+  },
+  "ext": {
+    "enableAstroBoxCreatorFeatures": true
+  }
+}
