@@ -5,6 +5,7 @@
     "name": "拴住今天",
     "description": "把今天拴在一根细绳上，也给自己留一点好玩的时间。\n\n点一下气球，看它噗地爆开；轻触绳子放飞对应气球，轻触日期卡牌放飞两只，气球都会自动补回。\n\n内置歪猫、垂耳狗、小幽灵和软吐司四个角色，六组气球配色、四种底色。点击电量进入外观设置，可选择底色、配色和起始角色，开关自动换型与轻轻摇摆。开启自动换型后，每次主气球补回时轮换角色，并非每天自动切换。\n\n显示时间、日期与电量。不支持 Redmi Watch 5。",
     "preview": [
+      "media/tether-today-interaction-and-colors-v2.webp",
       "media/preview-01-themes.jpg",
       "media/preview-02-layouts.jpg",
       "media/preview-03-guide.jpg"
