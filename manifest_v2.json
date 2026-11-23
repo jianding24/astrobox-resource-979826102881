@@ -3,11 +3,12 @@
     "id": "979826102881",
     "restype": "watchface",
     "name": "拴住今天",
-    "description": "把今天拴在一根细绳上，也给自己留一点好玩的时间。\n\n点一下气球，看它噗地爆开；轻触绳子放飞对应气球，轻触日期卡牌放飞两只，气球都会自动补回。\n\n内置歪猫、垂耳狗、小幽灵和软吐司四个角色，六组气球配色、四种底色。点击电量进入外观设置，可选择底色、配色和起始角色，开关自动换型与轻轻摇摆。开启自动换型后，每次主气球补回时轮换角色，并非每天自动切换。\n\n显示时间、日期与电量。不支持 Redmi Watch 5。",
+    "description": "把今天拴在一根细绳上，也给自己留一点好玩的时间。\n\n点一下气球，看它噗地爆开；轻触绳子放飞对应气球，轻触日期卡牌放飞两只，气球都会自动补回。\n\n内置歪猫、垂耳狗、小幽灵和软吐司四个角色，六组气球配色、四种底色。点击电量进入外观设置，可选择底色、配色和起始角色，开关自动换型与轻轻摇摆。开启自动换型后，每次主气球补回时轮换角色，并非每天自动切换。\n\n显示时间、日期与电量。\n\n息屏时保留时间、日期与气球轮廓，四个角色跟随当前选择；开启自动换型后，也会跟随亮屏当前角色。息屏为静态画面，不显示电量，不播放戳爆、放飞或摇摆动画。\n\n不支持 Redmi Watch 5。",
     "preview": [
-      "media/tether-today-interaction-and-colors-v2.webp",
+      "media/tether-today-interaction-and-colors-v3.webp",
       "media/preview-01-themes.jpg",
       "media/preview-02-layouts.jpg",
+      "media/preview-04-aod.jpg",
       "media/preview-03-guide.jpg"
     ],
     "icon": "media/icon.png",
@@ -21,16 +22,16 @@
   },
   "links": [
     {
-      "title": "表盘效果演示（小红书）",
-      "url": "https://xhslink.cn/o/2hQ0fCLVdlb",
-      "icon": "play-circle"
+      "title": "拴住今天交流群",
+      "url": "https://qun.qq.com/universal-share/share?ac=1&authKey=KBiK%2BVDM58VTDj5%2BXlf0a1uFW%2FcQAsYIuOJeFwvf0nbpG8uE84Sw6pRM7XjVVKnY&busi_data=eyJncm91cENvZGUiOiI5MTM1OTUyNzYiLCJ0b2tlbiI6Inh1WEdrdHRmckpTZ1hSUFBsNEs3cnNkVTM1OHNIRWw3QkJJaDJOOUtLS0k5bVI0OE5PZHV2RnZBdFRxWmhtOGUiLCJ1aW4iOiI5MzU0MjA2ODQifQ%3D%3D&data=4hItjYDblOib750xdbPh7b7b5m7ymXQ-kRJ7YwDsTTe-W-gYUm-P6Blz_WJ5eG0Q8OsyshoMTWp6nOf5RUK7QA&svctype=4&tempid=h5_group_info",
+      "icon": "users-three"
     }
   ],
   "downloads": {
     "xmb9": {
-      "version": "1.0.4",
-      "file_name": "downloads/TetherToday-band9-1.0.4.face",
-      "versionCode": 65540,
+      "version": "1.0.5",
+      "file_name": "downloads/TetherToday-band9-1.0.5.face",
+      "versionCode": 65541,
       "updatelogs": [
         {
           "version": "1.0.0",
@@ -39,13 +40,17 @@
         {
           "version": "1.0.4",
           "content": "修复动态着色透明合成，优化窄屏布局。"
+        },
+        {
+          "version": "1.0.5",
+          "content": "1.0.5 更新\n新增四角色息屏，跟随当前角色。"
         }
       ]
     },
     "xmb10": {
-      "version": "1.0.4",
-      "file_name": "downloads/TetherToday-band10-1.0.4.face",
-      "versionCode": 65540,
+      "version": "1.0.5",
+      "file_name": "downloads/TetherToday-band10-1.0.5.face",
+      "versionCode": 65541,
       "updatelogs": [
         {
           "version": "1.0.1",
@@ -58,13 +63,17 @@
         {
           "version": "1.0.4",
           "content": "修复显示兼容性与电池内芯对齐，优化窄屏布局。"
+        },
+        {
+          "version": "1.0.5",
+          "content": "1.0.5 更新\n新增四角色息屏，跟随当前角色。"
         }
       ]
     },
     "xmb10nfc": {
-      "version": "1.0.4",
-      "file_name": "downloads/TetherToday-band10-1.0.4.face",
-      "versionCode": 65540,
+      "version": "1.0.5",
+      "file_name": "downloads/TetherToday-band10-1.0.5.face",
+      "versionCode": 65541,
       "updatelogs": [
         {
           "version": "1.0.1",
@@ -77,13 +86,17 @@
         {
           "version": "1.0.4",
           "content": "修复显示兼容性与电池内芯对齐，优化窄屏布局。"
+        },
+        {
+          "version": "1.0.5",
+          "content": "1.0.5 更新\n新增四角色息屏，跟随当前角色。"
         }
       ]
     },
     "xmb11": {
-      "version": "1.0.4",
-      "file_name": "downloads/TetherToday-band10-1.0.4.face",
-      "versionCode": 65540,
+      "version": "1.0.5",
+      "file_name": "downloads/TetherToday-band10-1.0.5.face",
+      "versionCode": 65541,
       "updatelogs": [
         {
           "version": "1.0.1",
@@ -96,13 +109,17 @@
         {
           "version": "1.0.4",
           "content": "修复显示兼容性与电池内芯对齐，优化窄屏布局。"
+        },
+        {
+          "version": "1.0.5",
+          "content": "1.0.5 更新\n新增四角色息屏，跟随当前角色。"
         }
       ]
     },
     "xmb11nfc": {
-      "version": "1.0.4",
-      "file_name": "downloads/TetherToday-band10-1.0.4.face",
-      "versionCode": 65540,
+      "version": "1.0.5",
+      "file_name": "downloads/TetherToday-band10-1.0.5.face",
+      "versionCode": 65541,
       "updatelogs": [
         {
           "version": "1.0.1",
@@ -115,13 +132,17 @@
         {
           "version": "1.0.4",
           "content": "修复显示兼容性与电池内芯对齐，优化窄屏布局。"
+        },
+        {
+          "version": "1.0.5",
+          "content": "1.0.5 更新\n新增四角色息屏，跟随当前角色。"
         }
       ]
     },
     "xmb9p": {
-      "version": "1.0.4",
-      "file_name": "downloads/TetherToday-pro-1.0.4.face",
-      "versionCode": 65540,
+      "version": "1.0.5",
+      "file_name": "downloads/TetherToday-pro-1.0.5.face",
+      "versionCode": 65541,
       "updatelogs": [
         {
           "version": "1.0.0",
@@ -130,13 +151,17 @@
         {
           "version": "1.0.4",
           "content": "优化日期时间着色兼容性与电池内芯对齐。"
+        },
+        {
+          "version": "1.0.5",
+          "content": "1.0.5 更新\n新增四角色息屏，跟随当前角色。"
         }
       ]
     },
     "xmb10p": {
-      "version": "1.0.4",
-      "file_name": "downloads/TetherToday-pro-1.0.4.face",
-      "versionCode": 65540,
+      "version": "1.0.5",
+      "file_name": "downloads/TetherToday-pro-1.0.5.face",
+      "versionCode": 65541,
       "updatelogs": [
         {
           "version": "1.0.0",
@@ -145,13 +170,17 @@
         {
           "version": "1.0.4",
           "content": "优化日期时间着色兼容性与电池内芯对齐。"
+        },
+        {
+          "version": "1.0.5",
+          "content": "1.0.5 更新\n新增四角色息屏，跟随当前角色。"
         }
       ]
     },
     "xmrw6": {
-      "version": "1.0.4",
-      "file_name": "downloads/TetherToday-rw-1.0.4.face",
-      "versionCode": 65540,
+      "version": "1.0.5",
+      "file_name": "downloads/TetherToday-rw-1.0.5.face",
+      "versionCode": 65541,
       "updatelogs": [
         {
           "version": "1.0.0",
@@ -160,6 +189,10 @@
         {
           "version": "1.0.4",
           "content": "修复日期时间动态着色兼容性。"
+        },
+        {
+          "version": "1.0.5",
+          "content": "1.0.5 更新\n新增四角色息屏，跟随当前角色。"
         }
       ]
     }
